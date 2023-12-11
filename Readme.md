@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть»
 
-* Студент: [Денис Куряков](https://up.htmlacademy.ru/react/12/user/42634).
-* Наставник: `Неизвестно`.
+* Студент: `Владимир Васин`.
+* Наставник: [Adebayo Akinfenwa](https://www.transfermarkt.world/adebayo-akinfenwa/profil/spieler/32798).
 
 ---
 
@@ -10,7 +10,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`._
 
 ---
 
-### Памятка
+###  Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
